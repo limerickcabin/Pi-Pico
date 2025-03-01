@@ -28,6 +28,7 @@ I forgot how to enable the remote device. After fooling around, this was the tri
 Tools > Options > Interpreter > Port > USB Serial Device (COMx)
 
 New version of Thonny is different: 
- 
+
+![](Picture1.png)
 
 
