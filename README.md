@@ -1,5 +1,5 @@
 # Pi Pico
- Various microPython experiments with my Pi Pico
+ Presented are various microPython experiments with my Pi Pico
 
  Note that the wifi examples requires a creds.txt file with your accesspoint credentials in the form of a JSON string such as: 
 
@@ -28,6 +28,8 @@ I forgot how to enable the remote device. After fooling around, this was the tri
 Tools > Options > Interpreter > Port > USB Serial Device (COMx)
 
 New version of Thonny is different: 
+
+Tools > Options > Interpreter >
 
 ![](Picture1.png)
 
